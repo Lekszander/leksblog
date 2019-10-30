@@ -23,7 +23,7 @@ sections:
   templates:
   - page
 - type: document
-    path: settings.json
+    path: ./settings.json
     label: Side Bar
 upload_dir: static/uploads
 public_path: "/uploads"
