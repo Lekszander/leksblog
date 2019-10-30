@@ -27,5 +27,4 @@ fields:
   name: description
   label: description
 pages:
-- src/pages/articles/example.md
 - src/pages/articles/test.md
