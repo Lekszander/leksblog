@@ -1,5 +1,6 @@
 const lost = require('lost')
 const pxtorem = require('postcss-pxtorem')
+const settings = require('./settings.json')
 
 const url = 'https://lekszander.blog'
 
@@ -7,10 +8,9 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Lekszander\'s Blog',
-    subtitle:
-      'This blog is dedicated to sharing my game development and programming experience as an indie.',
-    copyright: '\© 2019 Lekszander\'s Blog',
+    title: settings.siteBrowserTitle,
+    subtitle: settings.subtitle,
+    copyright: settings.copyright,
     disqusShortname: '',
     menu: [
       {
@@ -27,11 +27,11 @@ module.exports = {
       },
     ],
     author: {
-      name: 'Lekszander\'s Blog',
-      email: 'lekszander.dev\@gmail.com',
+      name: settings.siteTitle,
+      email: settings.email,
       telegram: '#',
-      twitter: 'lekszander',
-      github: 'lekszander',
+      twitter: settings.twitter,
+      github: settings.github,
       rss: 'rss.xml',
       vk: '#',
     },
