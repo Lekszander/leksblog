@@ -4,27 +4,27 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: heading
-  label: Content
-- type: directory
-  path: src/pages/posts
-  label: Posts
-  create: documents
-  match: "**/*.md"
-  new_doc_ext: md
-  templates:
-  - post
-- type: directory
-  path: src/pages/pages
-  label: Pages
-  create: documents
-  match: "**/*.md"
-  new_doc_ext: md
-  templates:
-  - page
-- type: document
-    path: ./settings.json
-    label: Side Bar
+  - type: heading
+    label: Content
+  - type: directory
+    path: src/pages/posts
+    label: Posts
+    create: documents
+    match: "**/*.md"
+    new_doc_ext: md
+    templates:
+    - post
+  - type: directory
+    path: src/pages/pages
+    label: Pages
+    create: documents
+    match: "**/*.md"
+    new_doc_ext: md
+    templates:
+      - page
+  - type: document
+    path: settings.json
+    label: 'Side Bar'
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
