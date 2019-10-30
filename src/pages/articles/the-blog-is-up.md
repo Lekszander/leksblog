@@ -1,6 +1,6 @@
 ---
 title: The Blog is Up!
-date: 2017-08-30T00:40:32-04:00
+date: 2019-10-30T00:40:32-04:00
 layout: post
 draft: false
 path: "/posts/the-blog-is-up/"
