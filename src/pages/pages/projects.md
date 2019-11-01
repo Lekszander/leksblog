@@ -1,7 +1,7 @@
 ---
-title: Projects
+title: Portfolio
 layout: page
-path: "/projects"
+path: "/portfolio"
 
 ---
 6 Kilometers
