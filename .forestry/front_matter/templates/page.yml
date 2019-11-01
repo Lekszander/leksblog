@@ -11,5 +11,3 @@ fields:
 - type: text
   name: path
   label: path
-pages:
-- src/pages/pages/projects.md
