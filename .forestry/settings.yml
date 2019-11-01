@@ -1,13 +1,13 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: ''
+admin_path: '/admin'
 webhook_url: 
 sections:
 - type: heading
   label: Content
 - type: directory
-  path: src/pages/posts
+  path: /content/posts
   label: Posts
   create: documents
   match: "**/*.md"
@@ -15,18 +15,15 @@ sections:
   templates:
   - post
 - type: directory
-  path: src/pages/pages
+  path: /content/pages
   label: Pages
   create: documents
   match: "**/*.md"
   new_doc_ext: md
   templates:
   - page
-- type: document
-  path: settings.json
-  label: Side Bar
-upload_dir: static/uploads
-public_path: "/uploads"
+upload_dir: static/media
+public_path: "/media"
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
