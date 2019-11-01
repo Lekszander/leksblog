@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import PostTemplateDetails from '../components/PostTemplateDetails'
+import Commento from '../components/Commento'
 
 class PostTemplate extends React.Component {
   render() {
@@ -19,6 +20,7 @@ class PostTemplate extends React.Component {
             <meta name="description" content={description} />
           </Helmet>
           <PostTemplateDetails {...this.props} />
+          <Commento id={`${title}`} />
         </div>
       </Layout>
     )
