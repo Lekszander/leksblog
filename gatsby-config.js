@@ -176,5 +176,11 @@ module.exports = {
         precision: 8,
       },
     },
+    {
+      resolve: `gatsby-plugin-lodash`,
+      options: {
+        
+      }
+    },
   ],
 }
