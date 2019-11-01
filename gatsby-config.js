@@ -19,7 +19,7 @@ module.exports = {
       },
       {
         label: 'Portfolio',
-        path: '/portfolio',
+        path: '/portfolio/',
       }
       {
         label: 'About',
