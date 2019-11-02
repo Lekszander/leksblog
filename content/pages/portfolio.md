@@ -4,15 +4,15 @@ template: page
 path: "/portfolio"
 
 ---
-### 6Km
 
-<figure class="float-right" style="width: 240px">
-	<img src="/media/6km_vertical.png" alt="6Km Banner"> 
-	<figcaption></figcaption> 
-</figure>
+## Yumi
 
-`youtube: NGOwWv9AmMc`
+<div class="round-corner">
+	<a href="/pages/yumi"><img src="/media/yumi_room.png"></a>
+</div>
 
-### Yumi
+## 6 Km
 
-`youtube: iGGWUxS_72g`
+<div class="round-corner">
+	<a href="/pages/6km"><img src="/media/6km_concept.jpg"></a>
+</div>
