@@ -1,13 +1,13 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: '/admin'
+admin_path: "/admin"
 webhook_url: 
 sections:
 - type: heading
   label: Content
 - type: directory
-  path: /content/posts
+  path: content/posts
   label: Posts
   create: documents
   match: "**/*.md"
@@ -15,7 +15,7 @@ sections:
   templates:
   - post
 - type: directory
-  path: /content/pages
+  path: content/pages
   label: Pages
   create: documents
   match: "**/*.md"
