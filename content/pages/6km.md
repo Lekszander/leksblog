@@ -6,11 +6,11 @@ path: "/6km"
 
 `youtube: NGOwWv9AmMc`
 
-**Six Kilometers, or 6 Km,** is an online third-person co-op puzzle-adventure game developped during the course of Ubisoft Game Lab 2018. The latter is a university-level competition, organized by Ubisoft Montreal every winter since 2009, during which students from all over Quebec are paired with two Ubisoft employees as mentors (a programmer and an artist/designer) and tasked with developing a game over the course of 10 weeks following a certain theme, some guidelines and constraints given by a jury of Ubisoft profesionnals.
+**Six Kilometers, or 6 Km,** is an online third-person co-op puzzle-adventure game developped during the course of Ubisoft Game Lab 2018. The latter is a university-level competition, organized by Ubisoft Montreal every winter since 2009, during which students from all over Quebec are paired with two Ubisoft employees as mentors (a programmer and an artist/designer) and tasked with developing a game over the course of 10 weeks following a certain theme, some guidelines and constraints given by a jury of Ubisoft professionnals.
 
 ## Development Team
 
-6Km was the joint effort of four programmers from [ETS Montreal](https://etsmtl.ca) and 4 artists from [Centre NAD](https://nad.ca) school.
+6Km was the joint effort of four programmers from [ETS Montreal](https://etsmtl.ca) and four artists from [Centre NAD](https://nad.ca).
 
 <img src="/media/6km_team.jpg" alt="Our team">
 <figcaption>
