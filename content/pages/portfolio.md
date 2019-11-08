@@ -7,12 +7,8 @@ path: "/portfolio"
 
 ## Yumi
 
-<div class="round-corner">
-	<a href="/pages/yumi"><img src="/media/yumi_room.png"></a>
-</div>
+[![](/media/yumi_room_rounded.png)](/pages/yumi)
 
 ## 6 Km
 
-<div class="round-corner">
-	<a href="/pages/6km"><img src="/media/6km_concept.jpg"></a>
-</div>
+[![](/media/6km_concept_rounded.png)](/pages/6km)
