@@ -25,9 +25,19 @@ socialImage: "/media/6km_concept.jpg"
 	<a href="https://www.linkedin.com/in/maxime-hardy-207781144/">Maxime Hardy</a>
 </figcaption>
 
-Johncarlo worked on the level design, and collaborated with Matthew, who worked on game flow, obstacles and puzzles, to come up with a design that leveraged our main mechanic: co-op movement. Jérôme and I worked on network programming, UI and 3C, while Kerby and Maxime took care of audio integration and AI respectively. Finally, Georgette worked on our models and Sandrine did all of our textures and lighting.
+Johncarlo worked on the level design, and collaborated with Matthew, who worked on game flow, obstacles and puzzles, to come up with a design that leveraged our main mechanic: co-op movement. 
+
+<figure class="float-right">
+<img src="/media/6km_music.jpg" alt="Meeting with the Peruvian musicians">
+<figcaption>
+</figcaption>
+</figure>
+
+Jérôme and I worked on network programming, UI and 3C, while Kerby and Maxime took care of audio integration and AI respectively. Finally, Georgette worked on our models and Sandrine did all of our textures and lighting.
 
 You'll find all of their LinkedIn profiles in the caption above.
+
+We also booked an hour with some Peruvian musicians at a local recording studio to help us out with the soundtrack.
 
 ## Opportunity of a Lifetime
 If you've read [my about page](/pages/about), you know I had never worked for any video game studio before, so my experience amounted to a couple of game jams and small prototypes I'd made on my own time between university classes.
@@ -43,18 +53,18 @@ The theme for this competition was "Change the world". We had to come up with a 
 
 ## The Payoff
 
-On the day of the awards ceremony, eight winning teams were selected by a jury of Ubisoft employees. Let me stress that you **really** want to impress these people since they're often high in the company hierarchy: project managers, directors, etc. One of the judges for the 2019 edition was [Yannis Mallat himself](https://montreal.ubisoft.com/en/yannis-mallat-president-of-the-jury-for-the-ubisoft-game-lab-competitions-9th-edition/) the CEO of Ubisoft's Canadian Studios!
+On the day of the awards ceremony, eight winning teams were selected by a jury of Ubisoft employees. Let me stress that you **really** want to impress these people since they're often high in the company hierarchy: project managers, directors, etc. The following year (2019 edition), one of the judges was [Yannis Mallat himself](https://montreal.ubisoft.com/en/yannis-mallat-president-of-the-jury-for-the-ubisoft-game-lab-competitions-9th-edition/) the CEO of Ubisoft's Canadian Studios!
 
 We had high hopes that night and it all paid off when we heard our game nominated twice! Before the ceremony, we all agreed that winning wasn't the point, after all, experience was more important for us at this point in our careers. Imagine our surprise when our game was announced as the winning prototype for the Jury's Special Award!
 
 <img src="/media/6km_trophy.JPG" alt="The Jury's Special Award Trophy">
 <figcaption>
-	The trophy we received for winning the Jury's Special Award
+	The Jury's Special Award Trophy
 </figcaption>
 
 Everyone was all smiles and we couldn't believe what we had achieved especially since some of us were just starting out. The outcome of all this? A couple months later I got an interview for a paid gameplay programming internship of 8 months on an unannounced project at Ubisoft Montreal... and I got it. This was all I'd worked for the past year.
 
-<img src="/media/6km_carton.jpeg" alt="The sign we received afterward">
+<img src="/media/6km_carton.jpeg" alt="The Jury's Special Award sign we held on stage">
 <figcaption>
 	The Jury's Special Award sign we held on stage
 </figcaption>
