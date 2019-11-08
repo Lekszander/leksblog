@@ -7,8 +7,8 @@ path: "/portfolio"
 
 ## Yumi
 
-[![](/media/yumi_room_rounded.png)](/pages/yumi)
+[![](/media/yumi_room.png)](/pages/yumi)
 
 ## 6 Km
 
-[![](/media/6km_concept_rounded.png)](/pages/6km)
+[![](/media/6km_concept.jpg)](/pages/6km)
