@@ -2,6 +2,7 @@
 title: 6 Km
 template: page
 path: "/6km"
+socialImage: "/media/6km_concept.jpg"
 ---
 
 `youtube: NGOwWv9AmMc`
