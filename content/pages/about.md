@@ -52,4 +52,6 @@ I hope you'll enjoy reading my work and hopefully interact with me through the c
 
 ## Conjure Club
 
-This page wouldn't be complete without a shoutout to [Conjure](https://conjure.etsmtl.ca) itself. Thanks to its administrators' efforts and our university's very proactive stance towards student groups, Conjure has flourished tremendously in the past 10 years. Through the years, we've been sponsored by **Electronic Arts, Ubisoft, Warner Brothers, Behaviour Interactive, Square Enix, Eidos, Beenox, Unity3D, Ludia, Redbull and Google**. We've organized the Montreal chapter of the Global Game Jam
+This page wouldn't be complete without a shoutout to [Conjure](https://conjure.etsmtl.ca) itself. Thanks to its administrators' efforts and our university's very proactive stance towards student groups, Conjure has flourished tremendously in the past 10 years. Through the years, we've been sponsored by **Electronic Arts, Ubisoft, Warner Brothers, Behaviour Interactive, Square Enix, Eidos, Beenox, Unity3D, Ludia, Redbull and Google**. We've organized the Montreal chapter of the Global Game Jam for a number of years now, welcoming around 400 participants in 2016!
+
+Conjure has been a home for me since I've joined it. Its members are like a family to me and working with them has been nothing but a pleasure. This club has given me the means to achieve my dream of working in the industry and for that the least I can do is say thank you!
