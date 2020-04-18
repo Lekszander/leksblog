@@ -26,3 +26,5 @@ fields:
 - type: textarea
   name: description
   label: description
+pages:
+- content/posts/hosting-a-portfolio-or-blog-for-free.md
