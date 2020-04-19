@@ -12,11 +12,16 @@ tags:
 description: Take a look at a simplified process for hosting and creating your own portfolio or blog. Ideal for students, small indie studios, etc. Perfect for showcasing your work!
 
 ---
+
+<h2 id="top">Table of Contents</h2>
+
+
+
 Portfolio websites are pretty common among students and indie developers. They are super useful for displaying personal achievements, cool tech or being noticed recruiters.
 
 Last year I found a neat collection of tools aimed at creating your very own website much more easily, and I decided to write up an article about it. I hope you'll find this useful.
 
-## Step 1 - Acquiring a Domain Name
+<h2 id="domain-name">Step 1 - Acquiring a Domain Name</h2>
 
 There are a couple of things you need to worry about when picking a domain.
 
@@ -43,10 +48,9 @@ Let's take a look at GoDaddy to get an idea of prices and extensions available.
 
 <img src="https://media.giphy.com/media/d8LCsdR75mFEYRc6yX/source.gif" alt="Example prices for a new domain name on GoDaddy"/>
 
-All you have to do is head over [GoDaddy.com](https://www.godaddy.com) and type in the name of your desired domain. You'll be taken to a result page that will tell you if the domain of your choice is available and the extensions available for it. 
+All you have to do is head over [GoDaddy.com](https://www.godaddy.com) and type in the name of your desired domain. You'll be taken to a result page that will tell you if the domain of your choice is available and the extensions available for it.
 
-❕> Availability is based on extensions, not name!
-
+Availability is based on extensions, not name!
 This means if someone has already reserved yourwebsite.com, you would still be able to reserve yourwebsite.net if it's available.
 
 #### Which extension should I choose?
