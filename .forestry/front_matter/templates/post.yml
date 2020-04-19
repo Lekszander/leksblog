@@ -9,8 +9,6 @@ fields:
   name: date
   label: date
 - type: text
-  name: layout
-  label: layout
 - type: boolean
   name: draft
   label: draft

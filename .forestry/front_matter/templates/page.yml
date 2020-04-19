@@ -6,8 +6,6 @@ fields:
   name: title
   label: title
 - type: text
-  name: layout
-  label: layout
 - type: text
   name: path
   label: path
