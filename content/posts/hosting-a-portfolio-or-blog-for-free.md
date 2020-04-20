@@ -13,22 +13,26 @@ description: Take a look at a simplified process for hosting and creating your o
 
 ---
 
-<h2 id="top">Table of Contents</h2>
+## Table of Contents
 
-
+* <a href="#domain-name">Step 1 - Acquiring a Domain Name</a>
+    * <a href="#the-domain-registrar">The Domain Registrar</a>
+    * <a href="#the-domain-extension">The Domain Extension</a>
+    * <a href="#the-domain-name">The Domain Name</a>
+    * <a href="#domain-privacy--id-protect">Domain Privacy / ID Protect</a>
 
 Portfolio websites are pretty common among students and indie developers. They are super useful for displaying personal achievements, cool tech or being noticed recruiters.
 
-Last year I found a neat collection of tools aimed at creating your very own website much more easily, and I decided to write up an article about it. I hope you'll find this useful.
+Last year I found a neat collection of services aimed at creating your very own website much more easily, and I decided to write up an article about it. I hope you'll find this useful.
 
-<h2 id="domain-name">Step 1 - Acquiring a Domain Name</h2>
+## Step 1 - Acquiring a Domain Name
 
 There are a couple of things you need to worry about when picking a domain.
 
 1. The domain registrar
 2. The domain extension
 3. The domain name
-4. ID Protection
+4. Domain privacy / ID Protect
 
 ### The Domain Registrar
 
@@ -38,7 +42,7 @@ I've personally used [Namecheap](https://www.namecheap.com), [Siteground](http:/
 
 What you'll be mostly concerned with is reputation, customer service, and price which we'll look into next. Just do your research depending on your needs and budget.
 
-### The Domain Name Extension
+### The Domain Extension
 
 The price of your domain will not depend on the actual name but on the domain extension. The extension is the last part of the [url](https://en.wikipedia.org/wiki/URL). The more technical name for them are "top-level domains" which you can find a list of [here](http://data.iana.org/TLD/tlds-alpha-by-domain.txt).
 
@@ -66,6 +70,26 @@ There are many more extensions that can be used in clever ways (the [Freedom Pre
 
 ### The Domain Name
 
-Most of the time, people will already have a company name in mind and simply use that. If it's taken, there are ways to be creative while still retaining your original brand. For example, let's say I wanted to reserve the *goodgames* domain but it was already taken I could change the spelling or simple add "*studio*"
+Most of the time, people will already have a company name in mind and simply use that. If it's taken, there are ways to be creative while still retaining your original brand. For example, let's say I wanted to reserve the *goodgames* domain but it was already taken I could change the spelling or simple add "*studio*" to it and see if that's available.
 
-## The Tools
+Otherwise, you can also take a look at the different variations of *top-level domains* for which your desired name is available.
+
+### Domain privacy / ID Protect
+
+When you reserve a domain without domain privacy (sometimes called ID Protect), your ownership information is put in a global domain owner's database. That means anyone who looks up your website on a WHOIS engine such as [this one](https://lookup.icann.org/) can see your name, address, phone number, email which puts you at risk for spam, scam or even identity theft.
+
+I think it's safe to say ID Protect is definitely worth the price.
+
+## The Framework
+
+Now the thing that'll save you the most time is a **site generator** framework. There are many available and I've personally tried [Hugo](https://gohugo.io/), [Jekyll](https://jekyllrb.com/), and [GatsbyJS](https://www.gatsbyjs.org/).
+
+My personal favorite the subjet of today's article is GatsbyJS but I encourage you to take a look at alternatives if you'd like to try them out as well.
+
+<img src="/media/BlogEngineComparison.png"/>
+<figcaption>
+    Credits to u/behindthedash from reddit
+    <a href="https://www.reddit.com/r/webdev/comments/b0j9rs/infographic_gatsby_vs_hugo_vs_jekyll/">
+        (source)
+    </a>
+</figcaption>
